@@ -1,6 +1,22 @@
 /* index */
 
-
+/*
+color-primario: #99ff00;
+color-secundario: #46453a;
+color-terciario: #8123de;
+color-cuarto: #11ff88;
+*/
 
 
 /* Pagina de contacto */
+
+.encuesta {
+
+    background-color: aquamarine;
+    text-align: center;
+}
+
+main form h4 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
